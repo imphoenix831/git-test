@@ -1,0 +1,23 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imphoenix831/git-test.git"
+  },
+  "keywords": [
+    "nodejs",
+    "coursera"
+  ],
+  "author": "phoeni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imphoenix831/git-test/issues"
+  },
+  "homepage": "https://github.com/imphoenix831/git-test#readme"
+}
